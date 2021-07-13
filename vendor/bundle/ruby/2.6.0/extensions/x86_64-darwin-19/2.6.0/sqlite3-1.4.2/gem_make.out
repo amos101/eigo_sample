@@ -1,5 +1,5 @@
 current directory: /Users/buzoamosu/eigo_sample/vendor/bundle/ruby/2.6.0/gems/sqlite3-1.4.2/ext/sqlite3
-/Users/buzoamosu/.rbenv/versions/2.6.8/bin/ruby -I /Users/buzoamosu/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20210711-15043-1sg9jak.rb extconf.rb
+/Users/buzoamosu/.rbenv/versions/2.6.8/bin/ruby -I /Users/buzoamosu/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20210713-48647-1w49r9r.rb extconf.rb
 checking for sqlite3.h... yes
 checking for pthread_create() in -lpthread... yes
 checking for -ldl... yes
@@ -68,4 +68,4 @@ ld: warning: directory not found for option '-L/usr/local/opt/sqlite/lib'
 
 current directory: /Users/buzoamosu/eigo_sample/vendor/bundle/ruby/2.6.0/gems/sqlite3-1.4.2/ext/sqlite3
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20210711-15043-19hctlp/sqlite3
+/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20210713-48647-vh5su/sqlite3

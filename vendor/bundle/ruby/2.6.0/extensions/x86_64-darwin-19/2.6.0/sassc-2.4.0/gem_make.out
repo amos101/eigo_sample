@@ -1,5 +1,5 @@
 current directory: /Users/buzoamosu/eigo_sample/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
-/Users/buzoamosu/.rbenv/versions/2.6.8/bin/ruby -I /Users/buzoamosu/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20210711-15043-1lgengk.rb extconf.rb
+/Users/buzoamosu/.rbenv/versions/2.6.8/bin/ruby -I /Users/buzoamosu/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20210713-48647-19yv36b.rb extconf.rb
 creating Makefile
 
 current directory: /Users/buzoamosu/eigo_sample/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.bundle
 
 current directory: /Users/buzoamosu/eigo_sample/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210711-15043-1xm6zb8/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210713-48647-r9n0o/sassc

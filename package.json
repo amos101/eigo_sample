@@ -1,5 +1,6 @@
 {
   "name": "eigo-sample",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
@@ -15,8 +16,11 @@
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
   },
-  "version": "0.1.0",
   "devDependencies": {
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.1",
+    "vuetify-loader": "^1.7.0",
     "webpack-dev-server": "^3.11.2"
   }
 }
